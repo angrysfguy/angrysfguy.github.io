@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Machine Review: Her Smoke Rose Up Forever by James Tiptree, Jr.
+title: Her Smoke Rose Up Forever by James Tiptree, Jr.
 ---
 
 ![Her Smoke Rose Up Forever](http://ecx.images-amazon.com/images/I/510dhU%2B8avL.jpg "Title")
