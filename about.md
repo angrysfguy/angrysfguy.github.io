@@ -10,4 +10,8 @@ No, but really, I haven’t figured out what to say about myself yet.  I mean, r
 
 ### Contact me
 
-[angrysfguy@gmail.com](mailto:angrysfguy@gmail.com)
+In the odd event that you actually want to talk to Angry SF Guy, here are a few ways:
+
+AngrySFGuy at the almighty Google e-mail hive.
+
+@AngrySfGuy At the little blue bird's site.

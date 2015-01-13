@@ -5,9 +5,9 @@ title: It's SF
 
 ### I am not Angry SciFi Guy!
 
-TL;DR: It’s not SciFi, its Science Fiction.  And Angry SF Guy wants you to *want* to talk about SF
-
 I am not Angry SciFi Guy.  And most godforsakenly not Angry SyFy Guy.  Yes, I know they rhyme, which clearly makes them fun like marshmallows or beer.  But no, I am Angry Science Fiction Guy.
+
+TL;DR: It’s not SciFi, its Science Fiction.  And Angry SF Guy wants you to *want* to talk about SF
 
 ### “Angry SF Guy, why make such a big deal about SciFi?”
 
@@ -24,4 +24,4 @@ I can write all day long.  But I’ve found that people don’t read long shit (
 
 Angry SF Guy does acknowledge that long reviews are boring (probably even his).  So you will not find long plot summaries here.  And Angry SF Guy gets to the bottom line fast!  And most important of all, Angry SF Guy will try not to talk too much in the third person (ed. this is an outright lie -ASFG).
 
-(Note: this post was adapted from my earlier Tumblr blog)
+*(Note: this post was adapted from my earlier Tumblr)*
