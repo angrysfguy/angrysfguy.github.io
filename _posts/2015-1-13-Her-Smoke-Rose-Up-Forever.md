@@ -3,9 +3,9 @@ layout: post
 title: Her Smoke Rose Up Forever by James Tiptree, Jr.
 ---
 
-<div style="float: right">
-  <img src="http://ecx.images-amazon.com/images/I/510dhU%2B8avL.jpg">
-</div>
+
+<img style="float: right;height:300px;border:0" alt="book cover" src="http://ecx.images-amazon.com/images/I/510dhU%2B8avL.jpg">
+
 
 OK, so this is a tough one.  If you already know who James Tiptree, Jr. is, then you probably don’t need to hear this from me.  For the uninitiated however, he was one of perhaps the most important feminist science fiction authers ever.  His short stories were incredibly popular in the 1970s, during the New Wave of Science Fiction and the second wave of American feminism.  As Julie Phillips observed in her outstanding biography, Tiptree “was held up as an example of a male feminist, a man who understood.”  Frequently, his works were not overtly feminist, but they certainly revealed a world influenced by the movement, and were often touchingly sympathetic.  His works were also more pessimistic—a somewhat sharp contrast to the critical utopias of Le Guin, Russ, and Piercy, as well as the more hopeful critical dystopias of Octavia Butler and others that followed in the 1980s .
 
